@@ -158,9 +158,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "DaxUI",
+	name: "DolbySound",
 	owner: "xiaomi",
-	apk: "proprietary/system_ext/priv-app/DaxUI/DaxUI.apk",
+	apk: "proprietary/system_ext/priv-app/DolbySound/DolbySound.apk",
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
